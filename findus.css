@@ -1,0 +1,194 @@
+.wrapper1
+{
+	width: 100%;
+	height: 1200px;
+	position:absolute;
+    background-repeat:repeat-x;
+    background-attachment:fixed;
+    background-position: left top;
+	resize: none;
+}
+
+.block
+{
+	width: 100%;
+	height: 200px;
+	margin: 2px;
+	text-decoration: none;
+}
+
+.xtra-line
+{
+	width: 50px;
+	height: 75px;
+}
+
+.header
+{
+	width: 100%;
+	height: 100px;
+	list-style: none;
+	margin:0 auto;
+	padding: 0;
+	text-align: center;
+	font-family: Dream orphans;
+	text-decoration: none;
+	font-size: 100;
+	
+	
+}
+
+.navigation
+{
+	width: 100%;
+	height: 50px;
+	list-style: none;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0;
+	text-align: center;
+	font-family: Rounded Elegance;
+	text-decoration: none;
+	border-bottom: 2px solid silver;
+}
+
+.navigation li
+{
+	display: inline;
+	margin-left: 0px;
+	margin-right: 0px;
+	text-decoration: none;
+}
+
+li.a
+{
+	display: inline-block;
+	padding: 10px;
+	text-decoration: none;
+}
+
+
+li.a a:link
+{
+	color: red;
+	padding: 10px 20px;
+	text-decoration: none;
+}
+
+li.a a:hover, a:Active 
+{
+	color: #65909A;
+	text-decoration: none;
+}
+
+.shop
+{
+	width: 100%;
+	height: 500;
+	border: 1px solid silver;
+    margin:0 auto;
+}
+
+.space
+{
+	width: 100%;
+	height: 50px;
+}
+
+form 
+{
+	border: 4px solid #f1f1f1;
+}
+  
+
+.container 
+{
+	padding: 20px;
+	background-color: #f1f1f1;
+}
+  
+input[type=text], input[type=submit] 
+{
+	width: 100%;
+	padding: 12px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+}
+  
+input[type=checkbox] 
+{
+	margin-top: 16px;
+}
+  
+input[type=submit] 
+{
+	background-color: #04AA6D;
+	color: white;
+	border: none;
+}
+  
+input[type=submit]:hover 
+{
+	opacity: 0.8;
+}
+
+.container1 
+{
+	border-radius: 5px;
+	background-color: #f2f2f2;
+	padding: 20px;
+}
+
+input[type=text], select, textarea 
+{
+	width: 100%; 
+	padding: 12px; 
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	margin-top: 6px;
+	margin-bottom: 16px;
+	resize: vertical;
+}
+  
+input[type=submit] 
+{
+	background-color: #04AA6D;
+	color: white;
+	padding: 12px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+.footer
+{
+	width: 100%;
+	height: 100px;
+	border-top: 2px solid silver;
+}
+
+.footer-image
+{
+	width:49%;
+	height: 100px;
+	float: right;
+}
+
+.footer-logo
+{
+	width: 100px;
+	height: 100px;
+	float:right;
+}
+
+.footer-description
+{
+	width:49%;
+	height: 100px;
+	float: left;
+	text-align: center;
+	
+}
