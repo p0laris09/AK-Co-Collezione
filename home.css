@@ -204,6 +204,6 @@ li.a a:hover, a:Active
 
 .container
 {
-	max-width: auto;
+	width: auto;
 	margin: 0 auto;
 }
