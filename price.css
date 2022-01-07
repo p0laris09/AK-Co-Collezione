@@ -213,7 +213,6 @@ li.a a:hover, a:Active
 	width:49%;
 	height: 100px;
 	float: right;
-	
 }
 
 .footer-logo
@@ -230,4 +229,9 @@ li.a a:hover, a:Active
 	float: left;
 	text-align: center;
 	
+}
+
+.container_block
+{
+	max-width: 1000px;
 }
