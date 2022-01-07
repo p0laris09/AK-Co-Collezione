@@ -201,3 +201,9 @@ li.a a:hover, a:Active
 	text-align: center;
 	
 }
+
+.container
+{
+	max-width: 1000px;
+	margin: 0 auto;
+}
